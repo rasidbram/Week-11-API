@@ -1,5 +1,6 @@
-Build a Wikipedia Viewer
-Objective: Build an app that is functionally similar to this: example.
+<h1>Build a Wikipedia Viewer</h1>
+
+Objective: Build an app that is functionally similar to this: <a href="https://codepen.io/mahmutkaya-the-selector/full/XoMmEW"> example </a>
 
 Fulfill the below user stories. Use whichever libraries or APIs you need. Give it your own personal style.
 
